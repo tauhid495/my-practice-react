@@ -1,0 +1,6 @@
+.meal-container{
+    display: grid;
+    grid-gap: 100px;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 50px 50px;
+}
